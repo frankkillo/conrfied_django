@@ -70,8 +70,8 @@ def get_ndvi(user, password, coords):
 
         
 if __name__ == "__main__":
-    user = "frankkillo"
-    password = "game-need-a-BREAK69"
+    user = ""
+    password = ""
     geo = 'map.geojson'
 
     get_ndvi(user, password, geo)
